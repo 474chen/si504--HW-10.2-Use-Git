@@ -1,0 +1,10 @@
+Project Scoping: Define Your Question
+Q: Does the number of views the video has received on YouTube have anything to do with its length?
+
+Data source:
+  https://www.kaggle.com/datasets/canerkonuk/youtube-trending-videos-global
+
+Data analysis method：
+  • Data visualization Show distributions, relationships, patterns
+  • Correlation analysis Quantify relationships between variables
+  • Regression analysis Model relationships and make predictions
