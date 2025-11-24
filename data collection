@@ -2,10 +2,10 @@ Project Scoping: Define Your Question
 Q: Does the number of views the video has received on YouTube have anything to do with its length?
 
 Data source:
-  https://www.kaggle.com/datasets/canerkonuk/youtube-trending-videos-global
+  https://www.kaggle.com/datasets/pyuser11/youtube-trending-videos-updated-daily
 Required parameters:
-  video_duration
-  video_like_count
+  duration: The duration of the video (in a machine-readable format).
+  views: The number of views the video has received.
 
 Data analysis method：
   • Data visualization Show distributions, relationships, patterns
