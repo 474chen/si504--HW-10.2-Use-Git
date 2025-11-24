@@ -3,6 +3,9 @@ Q: Does the number of views the video has received on YouTube have anything to d
 
 Data source:
   https://www.kaggle.com/datasets/canerkonuk/youtube-trending-videos-global
+Required parameters:
+  video_duration
+  video_like_count
 
 Data analysis method：
   • Data visualization Show distributions, relationships, patterns
